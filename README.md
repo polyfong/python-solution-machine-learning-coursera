@@ -5,8 +5,8 @@
 
 ### 已实现
 > * ex1-Linear Regression 线性回归
-    * [Linear Regression with one variable 一元线性回归](https://github.com/polyfong/python-solution-machine-learning-coursera/blob/master/ex1-LinearRegression/LinearRegression.py)
-    * [Linear Regression with multiple variables](https://github.com/polyfong/python-solution-machine-learning-coursera/blob/master/ex1-LinearRegression/LinearRegressionMulti.py)
+    - [Linear Regression with one variable 一元线性回归](https://github.com/polyfong/python-solution-machine-learning-coursera/blob/master/ex1-LinearRegression/LinearRegression.py)
+    - [Linear Regression with multiple variables](https://github.com/polyfong/python-solution-machine-learning-coursera/blob/master/ex1-LinearRegression/LinearRegressionMulti.py)
 > * ex2-Logistic Regression 逻辑回归
-    * [Logistic Regression 逻辑回归](https://github.com/polyfong/python-solution-machine-learning-coursera/blob/master/ex2-LogisticRegression/LogisticRegression.py)
-    * **Regularized logistic Regression 正则化逻辑回归 (doing)**
+    - [Logistic Regression 逻辑回归](https://github.com/polyfong/python-solution-machine-learning-coursera/blob/master/ex2-LogisticRegression/LogisticRegression.py)
+    - **Regularized logistic Regression 正则化逻辑回归 (doing)**
